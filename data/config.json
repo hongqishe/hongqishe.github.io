@@ -1,1 +1,15 @@
-
+{
+  "navItems": [
+    { "name": "关于红旗社", "link": "pages/about.html" },
+    { "name": "学术文献", "link": "pages/research.html" },
+    { "name": "最新文章", "link": "pages/papers.html" },
+    { "name": "联系我们", "link": "pages/contact.html" }
+  ],
+  "newsList": [
+    {
+      "date": "2026-08-06",
+      "title": "红旗社成立！",
+      "file": "news/26080601.md"
+    }
+  ]
+}
